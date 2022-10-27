@@ -1,0 +1,21 @@
+Scope : 
+ There are many approaches to scope a problem. Scoping process is fairly iterative and the scope gets refined both during the scoping process as well as during the project.
+Step 1: Goals – Define the goal(s) of the project which is let the users to track on all leading
+pharmaceutical groups, organizations, medical research institutes, biotechnological companies like Novavax, Bharat Biotech, Moderna, Johnson and Johnson, CanSino Biologics,etc. on their progress on developing vaccine for SARS-CoV-2.
+Step 2: Actions – Actions/interventions that this project will inform - Register name, company's name and various details of vaccine. Analyze the data of all trials and make a prediction for release date.
+Step 3: Data and its Analysis –  Our model will produce outputs such as ranked list of the organizations, which will also mention vaccine name, mechanism used, sponsor of the vaccine, Trial Phase, Institution name, predicted release date, announced release date, side effects till now (if human trials have started), effectiveness of the vaccine, etc. Also our model will produce plots such as plot on progress versus time of different organizations, vaccine effectiveness versus organization names,etc.
+
+http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/
+
+Limitations : 
+Adverse side effects of a vaccine, especially those likely to occur at very low frequency, are extremely difficult to predict but can seriously affect vaccine acceptance which further delays release date which was predicted earlier.
+Long term study is required to come to a conclusion and then announce a release date, some vaccines takes upto 5 years to be made. So proper research is required.
+Some researchers say 2/3 world is to be vaccinated to eradicate the disease, for this enough doses should be made then it can be released or there will be shortage of dose and virus may spread again as vaccines are found to be 55%-58% efficient, so prediction is not easy.
+Approvals for various trials should be fast track because they can delay whole process.
+
+https://health.economictimes.indiatimes.com/news/pharma/icmr-aims-to-launch-indigenous-covid-19-vaccine-by-august-15/76778903
+https://www.quora.com/How-soon-will-a-vaccine-for-COVID-19-be-ready
+
+
+
+rain forest random forest decision tree linear regression
